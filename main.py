@@ -28,4 +28,4 @@ async def kur(ctx,s1,s2):
     await ctx.send(round(x,2))
 
 
-bot.run('MTE4MjcwMTg1MDM5NTQyMjcyMA.GI1MQD.jcJkGXpzhkUiUuvkz9pZE1gLQpoWuw8GqvAPbM')
+bot.run('')
